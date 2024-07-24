@@ -3,7 +3,7 @@
   "Author": "Lucifurr",
   "Name": "Fun Fact Countdown",
   "InternalName": "FunFactCountdown",
-  "AssemblyVersion": "1.2.0.2",
+  "AssemblyVersion": "1.2.0.3",
   "Changelog": "- Fixed settings window sizing\n- Added generic /ffcd command to open settings. Settings can now be adjusted: Use different sound effects, skip the \"Starting fun fact countdown!\" chat message and delay",
   "Description": "Start a countdown that sends fun facts to your chat!\n\"/ffcd\" to open the settings.\n\n\"/ffcd <length> <interval1> <interval2> ...\" to begin the fun fact countdown.\n\nFor example, \"/ffcd 15 10 5 0\" will start a 15 second countdown and share a fun fact to your CURRENTLY SELECTED CHAT MODE at the 10 second, 5 second, and 0 second marks!\n\n***If no intervals are given, your party will enjoy a fun fact for every second of the countdown.",
   "RepoUrl": "https://github.com/LucifurrMorningstar/FunFactCountdown",
@@ -17,10 +17,10 @@
   "DalamudApiLevel": 10,
   "IsHide": "False",
   "IsTestingExclusive": "False",
-  "LastUpdated": 1721854050,
+  "LastUpdated": 1721854226,
   "DownloadCount": 0,
-  "DownloadLinkInstall": "https://github.com/LucifurrMorningstar/FunFactCountdown/releases/download/v1.2.0.2/FunFactCountdown_1_2_0_2.zip",
-  "DownloadLinkTesting": "https://github.com/LucifurrMorningstar/FunFactCountdown/releases/download/v1.2.0.2/FunFactCountdown_1_2_0_2.zip",
-  "DownloadLinkUpdate": "https://github.com/LucifurrMorningstar/FunFactCountdown/releases/download/v1.2.0.2/FunFactCountdown_1_2_0_2.zip"
+  "DownloadLinkInstall": "https://github.com/LucifurrMorningstar/FunFactCountdown/releases/download/v1.2.0.3/FunFactCountdown_1_2_0_3.zip",
+  "DownloadLinkTesting": "https://github.com/LucifurrMorningstar/FunFactCountdown/releases/download/v1.2.0.3/FunFactCountdown_1_2_0_3.zip",
+  "DownloadLinkUpdate": "https://github.com/LucifurrMorningstar/FunFactCountdown/releases/download/v1.2.0.3/FunFactCountdown_1_2_0_3.zip"
   }
 ]

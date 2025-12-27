@@ -3,8 +3,8 @@
   "Author": "Lucifurr",
   "Name": "Fun Fact Countdown",
   "InternalName": "FunFactCountdown",
-  "AssemblyVersion": "1.4.2.0",
-  "Changelog": "Nov 26, 2024\n- Added dad mode\n\nNov 20, 2024\n- Updated for 7.1\n- Added 1,000 more fun facts\n\nJuly 27, 2024\n- Added the ability to choose a chat channel for the Fun Fact Countdown (default is Party)\n\nJuly 24, 2024\n- Fixed an issue where erroneous whitespace in the command call would cause a FormatException\n- Fixed settings window sizing\n- Added generic /ffcd command to open settings. Settings can now be adjusted: Use different sound effects, skip the \"Starting fun fact countdown!\" chat message and delay",
+  "AssemblyVersion": "1.4.3.0",
+  "Changelog": "Dec 27, 2025\n Updated for 7.4\n\nNov 26, 2024\n- Added dad mode\n\nNov 20, 2024\n- Updated for 7.1\n- Added 1,000 more fun facts\n\nJuly 27, 2024\n- Added the ability to choose a chat channel for the Fun Fact Countdown (default is Party)\n\nJuly 24, 2024\n- Fixed an issue where erroneous whitespace in the command call would cause a FormatException\n- Fixed settings window sizing\n- Added generic /ffcd command to open settings. Settings can now be adjusted: Use different sound effects, skip the \"Starting fun fact countdown!\" chat message and delay",
   "Description": "Start a countdown that sends fun facts to your chat!\n\"/ffcd\" to open the settings.\n\n\"/ffcd <length> <interval1> <interval2> ...\" to begin the fun fact countdown.\n\nFor example, \"/ffcd 15 10 5 0\" will start a 15 second countdown and share a fun fact to your chosen chat channel (Party by default) at the 10 second, 5 second, and 0 second marks!\n\n***If no intervals are given, your party will enjoy a fun fact for every second of the countdown.",
   "RepoUrl": "https://github.com/LucifurrMorningstar/FunFactCountdown",
   "IconUrl": "https://raw.githubusercontent.com/LucifurrMorningstar/FunFactCountdown/master/Assets/Icon.jpg",
@@ -17,10 +17,10 @@
   "DalamudApiLevel": 12,
   "IsHide": "False",
   "IsTestingExclusive": "False",
-  "LastUpdate": 1743979631,
+  "LastUpdate": 1766851626,
   "DownloadCount": 0,
-  "DownloadLinkInstall": "https://github.com/LucifurrMorningstar/FunFactCountdown/releases/download/v1.4.2.1/FunFactCountdown_1_4_2_1.zip",
-  "DownloadLinkTesting": "https://github.com/LucifurrMorningstar/FunFactCountdown/releases/download/v1.4.2.1/FunFactCountdown_1_4_2_1.zip",
-  "DownloadLinkUpdate": "https://github.com/LucifurrMorningstar/FunFactCountdown/releases/download/v1.4.2.1/FunFactCountdown_1_4_2_1.zip"
+  "DownloadLinkInstall": "https://github.com/LucifurrMorningstar/FunFactCountdown/releases/download/v1.4.3.0/FunFactCountdown_1_4_3_0.zip",
+  "DownloadLinkTesting": "https://github.com/LucifurrMorningstar/FunFactCountdown/releases/download/v1.4.3.0/FunFactCountdown_1_4_3_0.zip",
+  "DownloadLinkUpdate": "https://github.com/LucifurrMorningstar/FunFactCountdown/releases/download/v1.4.3.0/FunFactCountdown_1_4_3_0.zip"
   }
 ]
